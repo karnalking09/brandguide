@@ -1,2 +1,1 @@
-# brandguide
-Subdomain Takeover
+
